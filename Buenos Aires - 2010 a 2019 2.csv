@@ -1,4 +1,4 @@
-time,weather_code (wmo code),temperature_2m_max (°C),temperature_2m_min (°C),temperature_2m_mean (°C),apparent_temperature_max (°C),apparent_temperature_min (°C),apparent_temperature_mean (°C),precipitation_sum (mm),rain_sum (mm),wind_direction_10m_dominant (°)
+time,weather_code,temperature_2m_max,temperature_2m_min,temperature_2m_mean,apparent_temperature_max,apparent_temperature_min,apparent_temperature_mean,precipitation_sum,rain_sum,wind_direction_10m_dominant
 2010-01-01,51,24.4,18.8,21.7,26.3,16.5,21.5,0.60,0.60,11
 2010-01-02,0,27.8,19.2,23.9,33.0,20.9,26.7,0.00,0.00,305
 2010-01-03,51,28.6,21.8,25.1,32.9,22.7,27.2,0.10,0.10,71
